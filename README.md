@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello stranger 👋, lffloyd here!
+
+I'm a software developer and undergraduate computer science student at Universidade Federal Fluminense. I love building new things, and my main interests are software engineering, algorithms and machine learning. In my spare time, I love listening to music (of many kinds), reading books and watching movies. Feel free to send me a message if you want, buddy!
+
+## :bar_chart: Stats
+[![lffloyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=lffloyd)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lffloyd/lffloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
