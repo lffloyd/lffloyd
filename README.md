@@ -1,7 +1,7 @@
 ### <img src="./resources/chevrontp.gif" width="40" height="14" /> Hello stranger 👋, lffloyd here!
 ![](https://visitor-badge.laobi.icu/badge?page_id=lffloyd.lffloyd)
 
-I'm a software developer and undergraduate computer science student at Universidade Federal Fluminense. I love building new things, and my main interests are software engineering, algorithms and machine learning. In my spare time, I love listening to music (of many kinds), reading books and watching movies. Feel free to send me a message if you want, buddy!
+I'm a software developer and computer science graduate at Universidade Federal Fluminense. I love building new things, and my main interests are software engineering, algorithms and machine learning. In my spare time, I love listening to music (of many kinds), reading books and watching movies. Feel free to send me a message if you want, buddy!
 
 - 🔭 I’m currently working on projects involving Node.js, Typescript and Amazon Web Services
 
